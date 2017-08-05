@@ -1,0 +1,12 @@
+import rey.*
+
+program reyleon {
+
+	console.println('Hola Simba')
+	console.println(simba.estasContento())
+	simba.amigate(timon)
+	console.println(simba.estasContento())
+	timon.reducir()
+	console.println(simba.estasContento())
+
+}
